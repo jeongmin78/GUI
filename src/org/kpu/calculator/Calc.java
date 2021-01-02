@@ -23,7 +23,7 @@ public class Calc extends JFrame {
 	private JButton[] bt;
 
 	public Calc() {
-		setTitle("≥Î¡§πŒ");
+		setTitle("Calculator");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		Container c = getContentPane();
